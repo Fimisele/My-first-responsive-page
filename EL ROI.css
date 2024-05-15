@@ -1,0 +1,145 @@
+.Rico1 img{
+    width: 350px;
+    height: 200px;
+    margin-top: 5px;
+}
+
+.Rico2 img{
+    width: 350px;
+    height: 200px;
+    margin-top: 5px;
+}
+
+.Rico3 img{
+    width: 350;
+    height: 200px;
+    margin-top: 5px;
+}
+
+.Rico4 img{
+    width: 350px;
+    height: 200px;
+    margin-top: 5px;
+}
+
+.Rico5 img{
+    width: 350px;
+    height: 200px;
+    margin-top: 5px;
+}
+
+.EZE{
+    display: flex;
+    justify-content: space-around;
+}
+
+.jdg{
+    display: flex;
+    justify-content: space-around;
+}
+
+.ufd1 img{
+    width: 350px;
+    height: 200px;
+    margin-top: 5px;
+}
+
+
+.ufd2 img{
+    width: 350px;
+    height: 200px;
+    margin-top: 5px;
+}
+
+
+.ufd3 img{
+    width: 350px;
+    height: 200px;
+    margin-top: 5px;
+}
+
+
+.ufd4 img{
+    width: 350px;
+    height: 200px;
+    margin-top: 5px;
+}
+   
+
+.ufd5 img{
+    width: 350px;
+    height: 200px;
+    margin-top: 5px;
+}
+
+
+
+@media screen  and  (max-width:480px)  {
+.EZE{
+    display: grid;
+}
+.Rico1 img{
+    width: 200px;
+    height: 200px;
+    margin-top: 5px;
+}
+
+.Rico2 img{
+    width: 200px;
+    height: 200px;
+    margin-top: 5px;
+}
+
+.Rico3 img{
+    width: 200px;
+    height: 200px;
+    margin-top: 5px;
+}
+
+.Rico4 img{
+    width: 200px;
+    height: 200px;
+    margin-top: 5px;
+}
+
+.Rico5 img{
+    width: 200px;
+    height: 200px;
+    margin-top: 5px;
+}
+.jdg{
+    display: grid;
+}
+
+
+.ufd1 img{
+    width: 200px;
+    height: 200px;
+    margin-top: 5px;
+}
+
+.ufd2 img{
+    width: 200px;
+    height: 200px;
+    margin-top: 5px;
+}
+
+.ufd3 img{
+    width: 200px;
+    height: 200px;
+    margin-top: 5px;
+}
+
+.ufd4 img{
+    width: 200px;
+    height: 200px;
+    margin-top: 5px;
+}
+
+.ufd5 img{
+    width: 200px;
+    height: 200px;
+    margin-top: 5px;
+}
+}
+

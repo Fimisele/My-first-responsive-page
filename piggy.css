@@ -1,0 +1,79 @@
+*{
+    scroll-behavior: smooth;
+}
+.class{
+    width: 100%;
+    height:100vh ;
+    flex-wrap: wrap;
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    background-image: url(star-war1.jpg);
+    height: 100vh;
+    background-size: cover;
+}
+.super-pupz{
+    background-color: aquamarine;
+    width: 100%;
+    height: 70px;
+    display: flex;
+    justify-content: space-around;
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+    gap: 40px;
+}
+
+
+
+
+
+
+.batman{
+    background-image: url(batman2.jpg);
+    height: 100vh;
+    background-size: cover;
+    margin-top: 10px;
+}
+
+.fast-and-furious{
+    background-image: url(fast-and-furious2.jpg);
+    height: 100vh;
+    background-size: cover;
+    margin-top: 10px;
+}
+
+.grinch{
+    background-image: url(grinch2.jpg);
+    height: 100vh;
+    background-size: cover;
+    margin-top: 10px;
+}
+
+.flash{
+    height: 70px;
+    width: 100%;
+    background-color: aqua;
+    color: chocolate;
+    display: flex;
+    justify-content: space-around;
+}
+.space-jam{
+    background-image: url(space-jam3.jpg);
+    height: 100vh;
+    background-size: cover;
+    margin-top: 10px;
+}
+.sonic{
+    background-image: url(sonic3.jpg);
+    height: 100vh;
+    background-size: cover;
+    margin-top: 10px;
+}
+.transformer{
+    background-image: url(transformer3.jpg);
+    height: 100vh;
+    background-size: cover;
+    margin-top: 10px;
+}

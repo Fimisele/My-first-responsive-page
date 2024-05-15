@@ -1,0 +1,60 @@
+*{
+    scroll-behavior: smooth;
+}
+.Jesus{
+    width: 100%;
+    height: 70px;
+    background-color: black;
+    color: green;
+    display: flex;
+    justify-content: space-around;
+}
+
+ul {
+    display: flex;
+    gap: 40px;
+    color: green;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+ul li a{
+    text-decoration: none;
+    color: green;
+}
+
+.Kion{
+    width: 100%;
+    height: 100vh;
+}
+
+.Kion h1{
+    padding-top: 200px;
+    font-size: 40px;
+    text-align: center;
+}
+
+.wer{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 700px;
+}
+.wer img{
+    border-radius: 30px;
+}
+.tyu{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 700px;
+}
+.tyu img{
+    border-radius: 30px;
+}
+.vbn{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 700px;
+}
+.vbn img{
+    border-radius: 30px;
+}

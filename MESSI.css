@@ -1,0 +1,107 @@
+*{
+    scroll-behavior: smooth;
+}
+.bigfatty{
+    height: 100vh;
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    flex-wrap: wrap;
+    background-color: cornflowerblue;
+}
+
+.SONIC{
+    background-image: url(/sonic1.jpg);
+    height: 100vh;
+    background-size: cover;
+    margin-top: 10px;
+}
+
+.TRANSFORMER{
+    background-image: url(/transformer4.jpg);
+    height: 100vh;
+    background-size: cover;
+    margin-top: 10px;
+}
+
+.SPACE-JAM{
+    background-image: url(/space-jam3.jpg);
+    height: 100vh;
+    background-size: cover;
+    margin-top: 10px;
+}
+
+.FAST-AND-FURIOUS{
+    background-image: url(/fast-and-furious2.jpg);
+    height: 100vh;
+    background-size: cover;
+    margin-top: 10px;
+}
+
+.GRINCH{
+    background-image: url(/grinch1.jpg);
+    height: 100vh;
+    background-size: cover;
+    margin-top: 10px;
+}
+
+.GROOT{
+    background-image: url(/groot2.jpg);
+    height: 100vh;
+    background-size: cover;
+    margin-top: 10px;
+}
+
+.IRON-MAN{
+    background-image: url(/iron-man2.jpg);
+    height: 100vh;
+    background-size:cover ;
+    margin-top: 10px;
+}
+
+.STAR-WARS{
+    background-image: url(/star-war2.jpg);
+    height: 100vh;
+    background-size: cover;
+    margin-top: 10px;
+}
+
+.NINJA-TURTLE{
+    background-image: url(ninja-turtle3.jpg);
+    height: 100vh;
+    background-size: cover;
+    margin-top: 10px;
+}
+
+.SUPER-MAN{
+    background-image: url(super-man2.jpg);
+    height: 100vh;
+    background-size: cover;
+    margin-top: 10px;
+}
+
+.BATMAN{
+    background-image: url(batman2.jpg);
+    height: 100vh;
+    background-size: cover;
+    margin-top: 10px;
+}
+
+.BACKGROUND{
+    background-image: url(background-image.jpg);
+    height: 100vh;
+    background-size: cover;
+    margin-top: 10px;
+}
+
+.kombat14{
+    background-image: url(kombat14.jpg);
+    height: 100vh;
+    background-size: cover;
+    margin-top: 10px;
+}
+
+
+
+
+

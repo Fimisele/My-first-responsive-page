@@ -1,0 +1,60 @@
+.STOP{
+    width: 100%;
+    height: 70px;
+    background-color: cadetblue;
+    display: flex;
+    justify-content: space-around;
+}
+
+ul{
+  display: flex;
+ gap: 40px;
+}
+
+.Seven{
+  background-image: url(kombat3.jpg);  
+  background-size: cover;
+  height: 100vh;
+}
+
+.Seven h1{
+    color: orange;
+    padding-left: 200px;
+    padding-top: 150px;
+}
+
+.red{
+    display: flex;
+    justify-content: space-around;
+    margin:10px ;
+}
+.red img{
+    border-radius: 30px;
+}
+
+.DEMELADE{
+    height: 70px;
+    background-color: chocolate;
+}
+
+.DEMELADE h1{
+    color: white;
+    padding-left: 500px;
+}
+.school{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+}
+.school img{
+    border-radius: 30px;
+}
+
+.sarabi{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+}
+.sarabi img{
+    border-radius: 30px;
+}

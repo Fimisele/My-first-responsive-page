@@ -1,0 +1,121 @@
+*{
+   scroll-behavior: smooth;
+}
+body{
+   scroll-behavior: smooth;
+}
+.StarWars{
+   color: white; 
+   background-color: brown;
+   width: 100%;
+   height: 70px;
+   display: flex;
+   justify-content: space-around;
+}
+
+ul{
+   display: flex;
+   list-style-type: none;
+   gap: 40px;
+   color: white;
+   text-decoration: none;
+}
+
+ul li a{
+  text-decoration: none; 
+  color: ghostwhite;
+}
+
+.Sonic{
+   background-image: url(star-war1.jpg);
+   height:100vh ;
+   background-size: cover;
+}
+
+.Sonic h1{
+   color: white;
+   padding-left: 200px;
+   padding-top: 150px;
+}
+
+.Lorraine{
+   display: flex;
+   justify-content: space-around;
+   margin-top: 10px;
+   color: hotpink;
+}
+.Lorraine img{
+   border-radius: 30px;
+}
+
+.class{
+   display: flex;
+   justify-content: space-around;
+}
+
+
+.matthew{
+   display: flex;
+   justify-content: space-around;
+   margin-top: 10px;
+   color: limegreen;
+}
+.matthew img{
+   border-radius: 30px;
+}
+
+.Monkart{
+   display: flex;
+   justify-content: space-around;
+   margin-top: 10px;
+   color: gold;
+}
+.Monkart img{
+   border-radius: 30px;
+}
+
+.abel{
+  display: flex;
+  justify-content: space-around;
+  margin-top: 10px; 
+  color: white;
+  background-color: black;
+}
+
+.Sonic ul{
+   display: flex;
+   justify-content: space-around;
+   color: red;
+   padding-top:20px ;
+}
+
+.Sonic ul li{
+   background-color: black;
+   color: red;
+   padding: 8px;
+border-radius: 8px;
+border: 1px solid white;
+
+}
+
+.jireh{
+   display: flex;
+   justify-content: space-around;
+   margin-top: 10px;
+   color:yellow;
+}
+
+.jireh img{
+   border-radius: 30px;
+}
+
+.gang{
+   display: flex;
+   justify-content: space-around;
+   margin-top: 10px;
+   color: blue;
+}
+
+.gang img{
+   border-radius: 30px;
+}

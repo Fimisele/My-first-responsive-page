@@ -1,0 +1,12 @@
+.Brendon{
+    width: 200px;
+    height: 200px;
+    background-color: khaki;
+}
+
+@media screen and (max-width: 480px) {
+    .Brendon{
+        background-color: greenyellow;
+    }
+}
+

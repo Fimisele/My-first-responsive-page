@@ -1,0 +1,11 @@
+.Mountain{
+    width: 200px;
+    height: 200px;
+    background-color: hotpink;
+}
+
+@media screen and (max-width: 480px){
+    .Mountain{
+        background-color: darkolivegreen;
+    }
+} 

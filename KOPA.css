@@ -1,0 +1,53 @@
+.MICHELJACKSON{
+     width: 100%;
+     height: 70px;
+     background-color: firebrick;
+     display: flex;
+     justify-content: space-around;
+}
+
+ul{
+    display: flex;
+    gap: 40px;
+}
+
+.moonwalk{
+    background-image: url(kombat2.jpg);
+    height: 100vh;
+    background-size: cover;
+}
+
+.Asali{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+}
+.Asali img{
+    border-radius: 30px;
+}
+
+.KOVU{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+}
+.KOVU img{
+    border-radius: 30px;
+}
+
+.Pumba{
+   color: white; 
+   width: 80%;
+   background-color:black;
+   height: 75px;
+   padding-left: 300px;
+}
+
+.Rottweiler{
+   display: flex; 
+   justify-content: space-around;
+   margin-top: 10px;
+}
+.Rottweiler img{
+    border-radius: 30px;
+}

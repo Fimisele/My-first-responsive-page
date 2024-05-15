@@ -1,0 +1,85 @@
+*{
+    scroll-behavior: smooth;
+}
+.BOSS{
+    width: 100%;
+    display: flex;
+    height: 100vh;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    background-color: lightblue;
+    background-image: url(super-man1.jpg);
+    height: 100vh; 
+    background-size: cover;
+}
+
+.sonic{
+    background-image: url(sonic3.jpg);
+    height: 100vh;
+    background-size: cover;
+    margin-top: 10px;
+}
+
+.transformer{
+    background-image: url(transformer2.jpg);
+    height: 100vh;
+    background-size: cover;
+    margin-top: 10px;
+}
+
+.iron-man{
+    background-image: url(iron-man1.jpg);
+    height: 100vh;
+    background-size: cover;
+    margin-top: 10px;
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+    gap: 40px;
+}
+.Dragon-Rising{
+    color: firebrick;
+    background-color: darkgoldenrod;
+    width: 100%;
+    height: 70px;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.ICE{
+  height: 70px;
+  width: 100%;
+  background-color: darkgoldenrod;
+  color: firebrick;
+  justify-content: space-around;
+  display: flex;
+}
+
+.ninja-turtle{
+    background-image: url(ninja-turtle2.jpg);
+    height: 100vh;
+    background-size: cover;
+    margin-top: 10px;
+}
+
+.fast-and-furious{
+    background-image: url(fast-and-furious3.jpg);
+    height: 100vh;
+    background-size: cover;
+    margin-top: 10px;
+}
+
+.grinch{
+    background-image: url(grinch3.jpg);
+    height: 100vh;
+    background-size: cover;
+    margin-top: 10px;
+}
+
+
+
+
+
+

@@ -1,0 +1,67 @@
+.Sunbeam{
+    color: white;
+background-color: brown;
+    width: 100%;
+    height: 70px;
+    display: flex;
+    justify-content: space-around;
+}
+
+ul{
+    display: flex;
+    list-style-type: none;
+    gap: 40px;
+    color: white;
+    text-decoration: none;
+}
+ul li a{
+    text-decoration: none;
+    color: ghostwhite;
+}
+
+.HALLOWEEN{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+}
+.HALLOWEEN img{
+    border-radius: 30px;
+}
+
+.DAD{
+    height: 70px;
+    background-color: khaki;
+   
+}
+
+.DAD{
+    color: lawngreen;
+    padding-left: 800px;
+}
+ 
+.giet{
+    background-image: url(kombat5.jpg);
+    height: 100vh;
+    background-size: cover;
+    padding-left: 500px;
+    color: white;
+    padding-top: 300px;
+}
+
+.Goten{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+}
+.Goten img{
+    border-radius: 30px;
+}
+
+.pogo{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+}
+.pogo img{
+    border-radius: 30px;
+}

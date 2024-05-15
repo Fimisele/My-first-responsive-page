@@ -1,0 +1,44 @@
+.eight{
+    width: 100%;
+    height: 70px;
+    background-color: yellowgreen;
+    display: flex;
+    justify-content: space-around;
+}
+
+ul{
+    display: flex;
+    gap: 40px;
+}
+
+.snowleoperd{
+    background-image: url(kombat5.jpg);
+    height: 80vh;
+    background-size: cover;
+}
+
+.same{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+}
+.same img{
+    border-radius: 30px;
+}
+
+.money{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+}
+.money img{
+    border-radius: 30px;
+}
+
+.zach{
+    color: white;
+    background-color: black;
+    width: 100%;
+    height: 70px;
+    padding-left: 744px;
+}

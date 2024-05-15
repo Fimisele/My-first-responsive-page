@@ -1,0 +1,92 @@
+*{
+    scroll-behavior: smooth;
+}
+.sw{
+    height: 100vh;
+    width: 100%;
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.BATMAN{
+    background-image: url(/batman1.jpg);
+    height: 100vh;
+    background-size: cover;
+    margin-top: 50px;
+}
+
+.BWS{
+    background-image: url(/super-man1.jpg);
+    height: 100vh;
+    background-size: cover;
+    margin-top: 50px;
+}
+
+.IRON-MAN{
+    background-image: url(/iron-man4.jpg);
+    height: 100vh;
+    background-size: cover;
+    margin-top: 50px;
+}
+
+.GROOT{
+    background-image: url(/groot1.jpg);
+    height: 100vh;
+    background-size: cover;
+    margin-top: 50px;
+}
+
+.TRANSFORMER{
+    background-image: url(/transformer4.jpg);
+    height: 100vh;
+    background-size: cover;
+    margin-top: 50px;
+}
+
+.SONIC{
+    background-image: url(/sonic2.jpg);
+    height: 100vh;
+    background-size: cover ;
+    margin-top: 50px;
+}
+
+
+.BATMAN a{
+    color: yellow;
+}
+
+.BWS a{
+    color: yellow;
+}
+
+.IRON-MAN a{
+    color: yellow;
+}
+
+.GROOT a{
+color: yellow;
+}
+
+.TRANSFORMER a{
+    color: yellow;
+}
+
+.SONIC a{
+    color: yellow;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

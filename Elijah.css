@@ -1,0 +1,48 @@
+*{
+    scroll-behavior: smooth;
+}
+
+.AQUA{
+    width:100% ;
+    height: 70px;
+    background-color:blue ;
+    color: yellow;
+    display: flex;
+    justify-content: space-around;
+}
+
+.ninja-turtle{
+    background-image: url(ninja-turtle1.jpg);
+    height: 100vh;
+    background-size: cover;
+}
+
+.groot{
+    background-image: url(groot1.jpg);
+    height: 100vh;
+    background-size: cover;
+}
+
+.iron-man{
+    background-image: url(iron-man5.jpg);
+    height: 100vh;
+    background-size: cover;
+}
+
+.batman{
+   background-image: url(batman3.jpg);
+   height: 100vh;
+   background-size: cover;
+}
+
+.space-jam{
+    background-image: url(space-jam1.jpg);
+    height: 100vh;
+    background-size: cover;
+}
+
+.star-wars{
+    background-image: url(star-war1.jpg);
+    height: 100vh;
+    background-size: cover;
+}
